@@ -8,7 +8,7 @@ class TitleBar extends Component {
   render() {
     return (
       <div id="titlebar">
-        <h2>{this.props.title}</h2>
+        <h2>Popular {this.props.title}</h2>
       </div>
     );
   }
