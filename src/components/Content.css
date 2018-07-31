@@ -1,0 +1,18 @@
+img {
+  height: 80%;
+  width: 80%;
+}
+.tile {
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  margin: 8px;
+  overflow-wrap: break-word;
+}
+.goBack {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100px;
+  width: 100px;
+}
